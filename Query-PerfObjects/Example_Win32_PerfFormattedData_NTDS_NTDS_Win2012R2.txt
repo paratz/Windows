@@ -1,0 +1,170 @@
+
+
+__GENUS                                                          : 2
+__CLASS                                                          : Win32_PerfFormattedData_NTDS_NTDS
+__SUPERCLASS                                                     : Win32_PerfFormattedData
+__DYNASTY                                                        : CIM_StatisticalInformation
+__RELPATH                                                        : Win32_PerfFormattedData_NTDS_NTDS=@
+__PROPERTY_COUNT                                                 : 153
+__DERIVATION                                                     : {Win32_PerfFormattedData, Win32_Perf, 
+                                                                   CIM_StatisticalInformation}
+__SERVER                                                         : DC1
+__NAMESPACE                                                      : root\cimv2
+__PATH                                                           : \\DC1\root\cimv2:Win32_PerfFormattedData_NTDS_NTDS=@
+ABANRPersec                                                      : 0
+ABBrowsesPersec                                                  : 0
+ABClientSessions                                                 : 0
+ABMatchesPersec                                                  : 0
+ABPropertyReadsPersec                                            : 0
+ABProxyLookupsPersec                                             : 0
+ABSearchesPersec                                                 : 0
+ApproximatehighestDNT                                            : 9395
+ATQEstimatedQueueDelay                                           : 0
+ATQOutstandingQueuedRequests                                     : 0
+ATQRequestLatency                                                : 0
+ATQThreadsLDAP                                                   : 0
+ATQThreadsOther                                                  : 0
+ATQThreadsTotal                                                  : 12
+BasesearchesPersec                                               : 0
+Caption                                                          : 
+DatabaseaddsPersec                                               : 0
+DatabasedeletesPersec                                            : 0
+DatabasemodifysPersec                                            : 0
+DatabaserecyclesPersec                                           : 0
+Description                                                      : 
+DigestBindsPersec                                                : 0
+DRAHighestUSNCommittedHighpart                                   : 0
+DRAHighestUSNCommittedLowpart                                    : 579452
+DRAHighestUSNIssuedHighpart                                      : 0
+DRAHighestUSNIssuedLowpart                                       : 579452
+DRAInboundBytesCompressedBetweenSitesAfterCompressionPersec      : 0
+DRAInboundBytesCompressedBetweenSitesAfterCompressionSinceBoot   : 0
+DRAInboundBytesCompressedBetweenSitesBeforeCompressionPersec     : 0
+DRAInboundBytesCompressedBetweenSitesBeforeCompressionSinceBoot  : 0
+DRAInboundBytesNotCompressedWithinSitePersec                     : 0
+DRAInboundBytesNotCompressedWithinSiteSinceBoot                  : 65568512
+DRAInboundBytesTotalPersec                                       : 0
+DRAInboundBytesTotalSinceBoot                                    : 65568512
+DRAInboundFullSyncObjectsRemaining                               : 0
+DRAInboundLinkValueUpdatesRemaininginPacket                      : 0
+DRAInboundObjectsAppliedPersec                                   : 0
+DRAInboundObjectsFilteredPersec                                  : 0
+DRAInboundObjectsPersec                                          : 0
+DRAInboundObjectUpdatesRemaininginPacket                         : 0
+DRAInboundPropertiesAppliedPersec                                : 0
+DRAInboundPropertiesFilteredPersec                               : 0
+DRAInboundPropertiesTotalPersec                                  : 0
+DRAInboundTotalUpdatesRemaininginPacket                          : 0
+DRAInboundValuesDNsonlyPersec                                    : 0
+DRAInboundValuesTotalPersec                                      : 0
+DRAOutboundBytesCompressedBetweenSitesAfterCompressionPersec     : 0
+DRAOutboundBytesCompressedBetweenSitesAfterCompressionSinceBoot  : 0
+DRAOutboundBytesCompressedBetweenSitesBeforeCompressionPersec    : 0
+DRAOutboundBytesCompressedBetweenSitesBeforeCompressionSinceBoot : 0
+DRAOutboundBytesNotCompressedWithinSitePersec                    : 0
+DRAOutboundBytesNotCompressedWithinSiteSinceBoot                 : 178061072
+DRAOutboundBytesTotalPersec                                      : 0
+DRAOutboundBytesTotalSinceBoot                                   : 178061072
+DRAOutboundObjectsFilteredPersec                                 : 0
+DRAOutboundObjectsPersec                                         : 0
+DRAOutboundPropertiesPersec                                      : 0
+DRAOutboundValuesDNsonlyPersec                                   : 0
+DRAOutboundValuesTotalPersec                                     : 0
+DRAPendingReplicationOperations                                  : 0
+DRAPendingReplicationSynchronizations                            : 0
+DRASyncFailuresonSchemaMismatch                                  : 0
+DRASyncRequestsMade                                              : 37680
+DRASyncRequestsSuccessful                                        : 37680
+DRAThreadsGettingNCChanges                                       : 0
+DRAThreadsGettingNCChangesHoldingSemaphore                       : 0
+DSClientBindsPersec                                              : 0
+DSClientNameTranslationsPersec                                   : 0
+DSDirectoryReadsPersec                                           : 0
+DSDirectorySearchesPersec                                        : 0
+DSDirectoryWritesPersec                                          : 0
+DSMonitorListSize                                                : 88
+DSNameCachehitrate                                               : 0
+DSNotifyQueueSize                                                : 0
+DSPercentReadsfromDRA                                            : 0
+DSPercentReadsfromKCC                                            : 23
+DSPercentReadsfromLSA                                            : 0
+DSPercentReadsfromNSPI                                           : 0
+DSPercentReadsfromNTDSAPI                                        : 0
+DSPercentReadsfromSAM                                            : 71
+DSPercentReadsOther                                              : 4
+DSPercentSearchesfromDRA                                         : 0
+DSPercentSearchesfromKCC                                         : 0
+DSPercentSearchesfromLDAP                                        : 97
+DSPercentSearchesfromLSA                                         : 0
+DSPercentSearchesfromNSPI                                        : 0
+DSPercentSearchesfromNTDSAPI                                     : 1
+DSPercentSearchesfromSAM                                         : 0
+DSPercentSearchesOther                                           : 0
+DSPercentWritesfromDRA                                           : 0
+DSPercentWritesfromKCC                                           : 0
+DSPercentWritesfromLDAP                                          : 1
+DSPercentWritesfromLSA                                           : 0
+DSPercentWritesfromNSPI                                          : 0
+DSPercentWritesfromNTDSAPI                                       : 0
+DSPercentWritesfromSAM                                           : 97
+DSPercentWritesOther                                             : 1
+DSSearchsuboperationsPersec                                      : 0
+DSSecurityDescriptorPropagationsEvents                           : 0
+DSSecurityDescriptorPropagatorAverageExclusionTime               : 0
+DSSecurityDescriptorPropagatorRuntimeQueue                       : 0
+DSSecurityDescriptorsuboperationsPersec                          : 0
+DSServerBindsPersec                                              : 0
+DSServerNameTranslationsPersec                                   : 0
+DSThreadsinUse                                                   : 0
+ExternalBindsPersec                                              : 0
+FastBindsPersec                                                  : 0
+Frequency_Object                                                 : 
+Frequency_PerfTime                                               : 
+Frequency_Sys100NS                                               : 
+LDAPActiveThreads                                                : 0
+LDAPBindTime                                                     : 0
+LDAPClientSessions                                               : 89
+LDAPClosedConnectionsPersec                                      : 0
+LDAPNewConnectionsPersec                                         : 0
+LDAPNewSSLConnectionsPersec                                      : 0
+LDAPSearchesPersec                                               : 0
+LDAPSuccessfulBindsPersec                                        : 0
+LDAPUDPoperationsPersec                                          : 0
+LDAPWritesPersec                                                 : 0
+LinkValuesCleanedPersec                                          : 0
+Name                                                             : 
+NegotiatedBindsPersec                                            : 0
+NTLMBindsPersec                                                  : 0
+OnelevelsearchesPersec                                           : 0
+PhantomsCleanedPersec                                            : 0
+PhantomsVisitedPersec                                            : 0
+SAMAccountGroupEvaluationLatency                                 : 0
+SAMDisplayInformationQueriesPersec                               : 0
+SAMDomainLocalGroupMembershipEvaluationsPersec                   : 0
+SAMEnumerationsPersec                                            : 0
+SAMGCEvaluationsPersec                                           : 0
+SAMGlobalGroupMembershipEvaluationsPersec                        : 0
+SAMMachineCreationAttemptsPersec                                 : 0
+SAMMembershipChangesPersec                                       : 0
+SAMNonTransitiveMembershipEvaluationsPersec                      : 0
+SAMPasswordChangesPersec                                         : 0
+SAMResourceGroupEvaluationLatency                                : 4
+SAMSuccessfulComputerCreationsPersecIncludesallrequests          : 0
+SAMSuccessfulUserCreationsPersec                                 : 0
+SAMTransitiveMembershipEvaluationsPersec                         : 0
+SAMUniversalGroupMembershipEvaluationsPersec                     : 0
+SAMUserCreationAttemptsPersec                                    : 0
+SimpleBindsPersec                                                : 0
+SubtreesearchesPersec                                            : 0
+Timestamp_Object                                                 : 
+Timestamp_PerfTime                                               : 
+Timestamp_Sys100NS                                               : 
+TombstonesGarbageCollectedPersec                                 : 0
+TombstonesVisitedPersec                                          : 0
+Transitiveoperationsmillisecondsrun                              : 0
+TransitiveoperationsPersec                                       : 0
+TransitivesuboperationsPersec                                    : 0
+PSComputerName                                                   : DC1
+
+
+

@@ -1,0 +1,3681 @@
+
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="_Total"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="_Total"
+Caption                 : 
+CreatingProcessID       : 0
+Description             : 
+ElapsedTime             : 0
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 42868
+IDProcess               : 0
+IODataBytesPersec       : 44
+IODataOperationsPersec  : 3
+IOOtherBytesPersec      : 539
+IOOtherOperationsPersec : 14
+IOReadBytesPersec       : 44
+IOReadOperationsPersec  : 3
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : _Total
+PageFaultsPersec        : 18
+PageFileBytes           : 3026448384
+PageFileBytesPeak       : 4563599360
+PercentPrivilegedTime   : 100
+PercentProcessorTime    : 100
+PercentUserTime         : 5
+PoolNonpagedBytes       : 10738368
+PoolPagedBytes          : 19756552
+PriorityBase            : 0
+PrivateBytes            : 3026448384
+ThreadCount             : 1039
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 114530874855424
+VirtualBytesPeak        : 114535303626752
+WorkingSet              : 3239907328
+WorkingSetPeak          : 4926570496
+WorkingSetPrivate       : 2138566656
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="AgentWindowsService"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="AgentWindowsService"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012231
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 191
+IDProcess               : 2736
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : AgentWindowsService
+PageFaultsPersec        : 0
+PageFileBytes           : 31645696
+PageFileBytesPeak       : 31784960
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 26640
+PoolPagedBytes          : 214520
+PriorityBase            : 8
+PrivateBytes            : 31645696
+ThreadCount             : 5
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 527536128
+VirtualBytesPeak        : 534319104
+WorkingSet              : 28000256
+WorkingSetPeak          : 28049408
+WorkingSetPrivate       : 10141696
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="cmd"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="cmd"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 357112
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 29
+IDProcess               : 3940
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : cmd
+PageFaultsPersec        : 0
+PageFileBytes           : 1597440
+PageFileBytesPeak       : 2719744
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 3760
+PoolPagedBytes          : 33232
+PriorityBase            : 8
+PrivateBytes            : 1597440
+ThreadCount             : 1
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199040389120
+VirtualBytesPeak        : 2199041576960
+WorkingSet              : 2699264
+WorkingSetPeak          : 2744320
+WorkingSetPrivate       : 413696
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="conhost"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="conhost"
+Caption                 : 
+CreatingProcessID       : 3940
+Description             : 
+ElapsedTime             : 357111
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 63
+IDProcess               : 4468
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : conhost
+PageFaultsPersec        : 0
+PageFileBytes           : 1273856
+PageFileBytesPeak       : 1392640
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 7664
+PoolPagedBytes          : 154888
+PriorityBase            : 8
+PrivateBytes            : 1273856
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199101145088
+VirtualBytesPeak        : 2199103475712
+WorkingSet              : 8609792
+WorkingSetPeak          : 10424320
+WorkingSetPrivate       : 868352
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="conhost#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="conhost#1"
+Caption                 : 
+CreatingProcessID       : 7672
+Description             : 
+ElapsedTime             : 543
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 74
+IDProcess               : 7064
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : conhost#1
+PageFaultsPersec        : 0
+PageFileBytes           : 2060288
+PageFileBytesPeak       : 2158592
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 8304
+PoolPagedBytes          : 126176
+PriorityBase            : 8
+PrivateBytes            : 2060288
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199087493120
+VirtualBytesPeak        : 2199087894528
+WorkingSet              : 8806400
+WorkingSetPeak          : 8806400
+WorkingSetPrivate       : 1654784
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="csrss"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="csrss"
+Caption                 : 
+CreatingProcessID       : 512
+Description             : 
+ElapsedTime             : 5012936
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 308
+IDProcess               : 520
+IODataBytesPersec       : 44
+IODataOperationsPersec  : 3
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 44
+IOReadOperationsPersec  : 3
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : csrss
+PageFaultsPersec        : 0
+PageFileBytes           : 2166784
+PageFileBytesPeak       : 2457600
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 19072
+PoolPagedBytes          : 449952
+PriorityBase            : 13
+PrivateBytes            : 2166784
+ThreadCount             : 9
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 205127680
+VirtualBytesPeak        : 366891008
+WorkingSet              : 23044096
+WorkingSetPeak          : 123662336
+WorkingSetPrivate       : 1142784
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="csrss#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="csrss#1"
+Caption                 : 
+CreatingProcessID       : 448
+Description             : 
+ElapsedTime             : 5012946
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 349
+IDProcess               : 456
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : csrss#1
+PageFaultsPersec        : 0
+PageFileBytes           : 1847296
+PageFileBytesPeak       : 1888256
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 14656
+PoolPagedBytes          : 157552
+PriorityBase            : 13
+PrivateBytes            : 1847296
+ThreadCount             : 11
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 52826112
+VirtualBytesPeak        : 53874688
+WorkingSet              : 3936256
+WorkingSetPeak          : 4030464
+WorkingSetPrivate       : 1056768
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="csrss#2"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="csrss#2"
+Caption                 : 
+CreatingProcessID       : 4172
+Description             : 
+ElapsedTime             : 673
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 88
+IDProcess               : 6060
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : csrss#2
+PageFaultsPersec        : 0
+PageFileBytes           : 1368064
+PageFileBytesPeak       : 1425408
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 9312
+PoolPagedBytes          : 103424
+PriorityBase            : 13
+PrivateBytes            : 1368064
+ThreadCount             : 10
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 44883968
+VirtualBytesPeak        : 48312320
+WorkingSet              : 3596288
+WorkingSetPeak          : 3624960
+WorkingSetPrivate       : 823296
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="dfsrs"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="dfsrs"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012281
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 401
+IDProcess               : 1764
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : dfsrs
+PageFaultsPersec        : 0
+PageFileBytes           : 25759744
+PageFileBytesPeak       : 25985024
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 36064
+PoolPagedBytes          : 141608
+PriorityBase            : 8
+PrivateBytes            : 25759744
+ThreadCount             : 22
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199686967296
+VirtualBytesPeak        : 2199688695808
+WorkingSet              : 31137792
+WorkingSetPeak          : 31219712
+WorkingSetPrivate       : 17850368
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="dfssvc"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="dfssvc"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012257
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 140
+IDProcess               : 2308
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : dfssvc
+PageFaultsPersec        : 0
+PageFileBytes           : 2236416
+PageFileBytesPeak       : 2568192
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 13232
+PoolPagedBytes          : 57288
+PriorityBase            : 8
+PrivateBytes            : 2236416
+ThreadCount             : 11
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 35323904
+VirtualBytesPeak        : 37052416
+WorkingSet              : 6094848
+WorkingSetPeak          : 6234112
+WorkingSetPrivate       : 1597440
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="dns"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="dns"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012276
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 10339
+IDProcess               : 1812
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : dns
+PageFaultsPersec        : 0
+PageFileBytes           : 190070784
+PageFileBytesPeak       : 190705664
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 7608752
+PoolPagedBytes          : 1300080
+PriorityBase            : 8
+PrivateBytes            : 190070784
+ThreadCount             : 20
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199268839424
+VirtualBytesPeak        : 2199270035456
+WorkingSet              : 185454592
+WorkingSetPeak          : 185966592
+WorkingSetPrivate       : 178847744
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="dwm"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="dwm"
+Caption                 : 
+CreatingProcessID       : 4152
+Description             : 
+ElapsedTime             : 673
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 176
+IDProcess               : 6152
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : dwm
+PageFaultsPersec        : 0
+PageFileBytes           : 10829824
+PageFileBytesPeak       : 17039360
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 13536
+PoolPagedBytes          : 176320
+PriorityBase            : 13
+PrivateBytes            : 10829824
+ThreadCount             : 6
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199114649600
+VirtualBytesPeak        : 2199117946880
+WorkingSet              : 17375232
+WorkingSetPeak          : 23187456
+WorkingSetPrivate       : 10240000
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="dwm#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="dwm#1"
+Caption                 : 
+CreatingProcessID       : 556
+Description             : 
+ElapsedTime             : 5012411
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 243
+IDProcess               : 976
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : dwm#1
+PageFaultsPersec        : 0
+PageFileBytes           : 16764928
+PageFileBytesPeak       : 42049536
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 25040
+PoolPagedBytes          : 360704
+PriorityBase            : 13
+PrivateBytes            : 16764928
+ThreadCount             : 10
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199175610368
+VirtualBytesPeak        : 2199361368064
+WorkingSet              : 39370752
+WorkingSetPeak          : 112459776
+WorkingSetPrivate       : 13639680
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="explorer"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="explorer"
+Caption                 : 
+CreatingProcessID       : 3724
+Description             : 
+ElapsedTime             : 4766715
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 1773
+IDProcess               : 4248
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : explorer
+PageFaultsPersec        : 0
+PageFileBytes           : 67137536
+PageFileBytesPeak       : 84529152
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 94240
+PoolPagedBytes          : 1190824
+PriorityBase            : 8
+PrivateBytes            : 67137536
+ThreadCount             : 47
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199639175168
+VirtualBytesPeak        : 2199891853312
+WorkingSet              : 160002048
+WorkingSetPeak          : 183164928
+WorkingSetPrivate       : 50987008
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="Idle"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="Idle"
+Caption                 : 
+CreatingProcessID       : 0
+Description             : 
+ElapsedTime             : 5013027
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 0
+IDProcess               : 0
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : Idle
+PageFaultsPersec        : 0
+PageFileBytes           : 0
+PageFileBytesPeak       : 0
+PercentPrivilegedTime   : 100
+PercentProcessorTime    : 100
+PercentUserTime         : 0
+PoolNonpagedBytes       : 0
+PoolPagedBytes          : 0
+PriorityBase            : 0
+PrivateBytes            : 0
+ThreadCount             : 4
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 65536
+VirtualBytesPeak        : 65536
+WorkingSet              : 4096
+WorkingSetPeak          : 4096
+WorkingSetPrivate       : 4096
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="iexplore"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="iexplore"
+Caption                 : 
+CreatingProcessID       : 5368
+Description             : 
+ElapsedTime             : 357588
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 960
+IDProcess               : 5200
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : iexplore
+PageFaultsPersec        : 0
+PageFileBytes           : 137916416
+PageFileBytesPeak       : 159408128
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 145592
+PoolPagedBytes          : 533008
+PriorityBase            : 8
+PrivateBytes            : 137916416
+ThreadCount             : 26
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 462979072
+VirtualBytesPeak        : 510406656
+WorkingSet              : 178454528
+WorkingSetPeak          : 205312000
+WorkingSetPrivate       : 125550592
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="iexplore#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="iexplore#1"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 357589
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 650
+IDProcess               : 5368
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : iexplore#1
+PageFaultsPersec        : 0
+PageFileBytes           : 13864960
+PageFileBytesPeak       : 14303232
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 49496
+PoolPagedBytes          : 434256
+PriorityBase            : 8
+PrivateBytes            : 13864960
+ThreadCount             : 11
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2233604214784
+VirtualBytesPeak        : 2233632456704
+WorkingSet              : 38862848
+WorkingSetPeak          : 38862848
+WorkingSetPrivate       : 9998336
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="inetinfo"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="inetinfo"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012275
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 149
+IDProcess               : 1836
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : inetinfo
+PageFaultsPersec        : 0
+PageFileBytes           : 11476992
+PageFileBytesPeak       : 11640832
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 15216
+PoolPagedBytes          : 100472
+PriorityBase            : 8
+PrivateBytes            : 11476992
+ThreadCount             : 4
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 67215360
+VirtualBytesPeak        : 68812800
+WorkingSet              : 18681856
+WorkingSetPeak          : 18866176
+WorkingSetPrivate       : 10657792
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="InetMgr"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="InetMgr"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1723310
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 293
+IDProcess               : 8160
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : InetMgr
+PageFaultsPersec        : 0
+PageFileBytes           : 43118592
+PageFileBytesPeak       : 44916736
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 46224
+PoolPagedBytes          : 522888
+PriorityBase            : 8
+PrivateBytes            : 43118592
+ThreadCount             : 9
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 698843136
+VirtualBytesPeak        : 709648384
+WorkingSet              : 62291968
+WorkingSetPeak          : 65335296
+WorkingSetPrivate       : 24395776
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="ismserv"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="ismserv"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012274
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 100
+IDProcess               : 1856
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : ismserv
+PageFaultsPersec        : 0
+PageFileBytes           : 1667072
+PageFileBytesPeak       : 1875968
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 11552
+PoolPagedBytes          : 47880
+PriorityBase            : 8
+PrivateBytes            : 1667072
+ThreadCount             : 6
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 30728192
+VirtualBytesPeak        : 32841728
+WorkingSet              : 4501504
+WorkingSetPeak          : 4583424
+WorkingSetPrivate       : 1015808
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="LogonUI"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="LogonUI"
+Caption                 : 
+CreatingProcessID       : 4152
+Description             : 
+ElapsedTime             : 673
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 313
+IDProcess               : 2156
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : LogonUI
+PageFaultsPersec        : 0
+PageFileBytes           : 13451264
+PageFileBytesPeak       : 13664256
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 23120
+PoolPagedBytes          : 512936
+PriorityBase            : 13
+PrivateBytes            : 13451264
+ThreadCount             : 10
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199273287680
+VirtualBytesPeak        : 2199277191168
+WorkingSet              : 26185728
+WorkingSetPeak          : 29212672
+WorkingSetPrivate       : 7938048
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="lsass"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="lsass"
+Caption                 : 
+CreatingProcessID       : 528
+Description             : 
+ElapsedTime             : 5012925
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 3197
+IDProcess               : 628
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : lsass
+PageFaultsPersec        : 0
+PageFileBytes           : 102899712
+PageFileBytesPeak       : 127614976
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 394400
+PoolPagedBytes          : 325784
+PriorityBase            : 9
+PrivateBytes            : 102899712
+ThreadCount             : 42
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2200317038592
+VirtualBytesPeak        : 2200335486976
+WorkingSet              : 115425280
+WorkingSetPeak          : 126410752
+WorkingSetPrivate       : 95780864
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mbsa"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mbsa"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 357427
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 700
+IDProcess               : 2520
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mbsa
+PageFaultsPersec        : 0
+PageFileBytes           : 39419904
+PageFileBytesPeak       : 454361088
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 50480
+PoolPagedBytes          : 535776
+PriorityBase            : 8
+PrivateBytes            : 39419904
+ThreadCount             : 21
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 34707021824
+VirtualBytesPeak        : 35071062016
+WorkingSet              : 83128320
+WorkingSetPeak          : 488112128
+WorkingSetPrivate       : 33071104
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="Microsoft.ActiveDirectory.WebServices"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="Microsoft.ActiveDirectory.Web
+                          Services"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012296
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 2742
+IDProcess               : 1656
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : Microsoft.ActiveDirectory.WebServices
+PageFaultsPersec        : 0
+PageFileBytes           : 50700288
+PageFileBytesPeak       : 58880000
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 41632
+PoolPagedBytes          : 418112
+PriorityBase            : 8
+PrivateBytes            : 50700288
+ThreadCount             : 11
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 621076480
+VirtualBytesPeak        : 625238016
+WorkingSet              : 62095360
+WorkingSetPeak          : 67489792
+WorkingSetPrivate       : 27480064
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="Microsoft.IdentityServer.ServiceHost"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="Microsoft.IdentityServer.Serv
+                          iceHost"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 1793888
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 953
+IDProcess               : 7576
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : Microsoft.IdentityServer.ServiceHost
+PageFaultsPersec        : 0
+PageFileBytes           : 504553472
+PageFileBytesPeak       : 533848064
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 988584
+PoolPagedBytes          : 516800
+PriorityBase            : 8
+PrivateBytes            : 504553472
+ThreadCount             : 31
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 18713907200
+VirtualBytesPeak        : 18717077504
+WorkingSet              : 331612160
+WorkingSetPeak          : 352587776
+WorkingSetPrivate       : 274341888
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mmc"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mmc"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1794192
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 398
+IDProcess               : 4148
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mmc
+PageFaultsPersec        : 0
+PageFileBytes           : 17141760
+PageFileBytesPeak       : 17440768
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 40848
+PoolPagedBytes          : 354520
+PriorityBase            : 8
+PrivateBytes            : 17141760
+ThreadCount             : 5
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199209885696
+VirtualBytesPeak        : 2199226376192
+WorkingSet              : 20402176
+WorkingSetPeak          : 32595968
+WorkingSetPrivate       : 6418432
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mmc#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mmc#1"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1794071
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 429
+IDProcess               : 5888
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mmc#1
+PageFaultsPersec        : 0
+PageFileBytes           : 17489920
+PageFileBytesPeak       : 21913600
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 36560
+PoolPagedBytes          : 494528
+PriorityBase            : 8
+PrivateBytes            : 17489920
+ThreadCount             : 6
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199279005696
+VirtualBytesPeak        : 2199312199680
+WorkingSet              : 5234688
+WorkingSetPeak          : 38494208
+WorkingSetPrivate       : 2179072
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mmc#2"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mmc#2"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1799271
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 256
+IDProcess               : 1528
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mmc#2
+PageFaultsPersec        : 0
+PageFileBytes           : 14348288
+PageFileBytesPeak       : 19591168
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 28544
+PoolPagedBytes          : 293520
+PriorityBase            : 8
+PrivateBytes            : 14348288
+ThreadCount             : 3
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199188574208
+VirtualBytesPeak        : 2199206907904
+WorkingSet              : 22659072
+WorkingSetPeak          : 31744000
+WorkingSetPrivate       : 9777152
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mmc#3"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mmc#3"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1799334
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 343
+IDProcess               : 4216
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mmc#3
+PageFaultsPersec        : 0
+PageFileBytes           : 15347712
+PageFileBytesPeak       : 15634432
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 31360
+PoolPagedBytes          : 465784
+PriorityBase            : 8
+PrivateBytes            : 15347712
+ThreadCount             : 12
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2233629679616
+VirtualBytesPeak        : 2233643376640
+WorkingSet              : 34996224
+WorkingSetPeak          : 42123264
+WorkingSetPrivate       : 7495680
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mmc#4"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mmc#4"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1803543
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 345
+IDProcess               : 4132
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mmc#4
+PageFaultsPersec        : 0
+PageFileBytes           : 14635008
+PageFileBytesPeak       : 15810560
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 31488
+PoolPagedBytes          : 466232
+PriorityBase            : 8
+PrivateBytes            : 14635008
+ThreadCount             : 12
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2233633808384
+VirtualBytesPeak        : 2233648414720
+WorkingSet              : 35876864
+WorkingSetPeak          : 45416448
+WorkingSetPrivate       : 7503872
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="mqsvc"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="mqsvc"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012273
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 304
+IDProcess               : 1896
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : mqsvc
+PageFaultsPersec        : 0
+PageFileBytes           : 5361664
+PageFileBytesPeak       : 5705728
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 33904
+PoolPagedBytes          : 163720
+PriorityBase            : 8
+PrivateBytes            : 5361664
+ThreadCount             : 31
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 92643328
+VirtualBytesPeak        : 94789632
+WorkingSet              : 10014720
+WorkingSetPeak          : 10055680
+WorkingSetPrivate       : 2560000
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="msdtc"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="msdtc"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5015213
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 165
+IDProcess               : 3636
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : msdtc
+PageFaultsPersec        : 0
+PageFileBytes           : 2392064
+PageFileBytesPeak       : 2859008
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 12272
+PoolPagedBytes          : 77576
+PriorityBase            : 8
+PrivateBytes            : 2392064
+ThreadCount             : 9
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199067295744
+VirtualBytesPeak        : 2199068360704
+WorkingSet              : 7036928
+WorkingSetPeak          : 7663616
+WorkingSetPrivate       : 1716224
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="MsMpEng"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="MsMpEng"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012411
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 548
+IDProcess               : 996
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : MsMpEng
+PageFaultsPersec        : 0
+PageFileBytes           : 165519360
+PageFileBytesPeak       : 652156928
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 58816
+PoolPagedBytes          : 683424
+PriorityBase            : 8
+PrivateBytes            : 165519360
+ThreadCount             : 18
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199537700864
+VirtualBytesPeak        : 2200037703680
+WorkingSet              : 149024768
+WorkingSetPeak          : 617525248
+WorkingSetPrivate       : 100777984
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="msseces"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="msseces"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 4766697
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 318
+IDProcess               : 6424
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : msseces
+PageFaultsPersec        : 0
+PageFileBytes           : 6070272
+PageFileBytesPeak       : 7888896
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 17120
+PoolPagedBytes          : 419032
+PriorityBase            : 8
+PrivateBytes            : 6070272
+ThreadCount             : 3
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199239708672
+VirtualBytesPeak        : 2199242526720
+WorkingSet              : 17498112
+WorkingSetPeak          : 19140608
+WorkingSetPrivate       : 4452352
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="powershell"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="powershell"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 543
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 568
+IDProcess               : 7672
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : powershell
+PageFaultsPersec        : 0
+PageFileBytes           : 110239744
+PageFileBytesPeak       : 110338048
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 39528
+PoolPagedBytes          : 470912
+PriorityBase            : 8
+PrivateBytes            : 110239744
+ThreadCount             : 10
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199716896768
+VirtualBytesPeak        : 2199722246144
+WorkingSet              : 118833152
+WorkingSetPeak          : 119087104
+WorkingSetPrivate       : 78942208
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="RDCMan"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="RDCMan"
+Caption                 : 
+CreatingProcessID       : 4248
+Description             : 
+ElapsedTime             : 1791244
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 1986
+IDProcess               : 4984
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : RDCMan
+PageFaultsPersec        : 0
+PageFileBytes           : 434360320
+PageFileBytesPeak       : 434524160
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 81328
+PoolPagedBytes          : 718952
+PriorityBase            : 8
+PrivateBytes            : 434360320
+ThreadCount             : 56
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 1202475008
+VirtualBytesPeak        : 1207967744
+WorkingSet              : 430804992
+WorkingSetPeak          : 434171904
+WorkingSetPrivate       : 375578624
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="rdpclip"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="rdpclip"
+Caption                 : 
+CreatingProcessID       : 2704
+Description             : 
+ElapsedTime             : 673
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 262
+IDProcess               : 3156
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : rdpclip
+PageFaultsPersec        : 0
+PageFileBytes           : 2277376
+PageFileBytesPeak       : 2375680
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 13168
+PoolPagedBytes          : 193896
+PriorityBase            : 8
+PrivateBytes            : 2277376
+ThreadCount             : 9
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199118495744
+VirtualBytesPeak        : 2199120359424
+WorkingSet              : 9539584
+WorkingSetPeak          : 9592832
+WorkingSetPrivate       : 1667072
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="rdpinput"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="rdpinput"
+Caption                 : 
+CreatingProcessID       : 3156
+Description             : 
+ElapsedTime             : 672
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 85
+IDProcess               : 6800
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : rdpinput
+PageFaultsPersec        : 0
+PageFileBytes           : 1077248
+PageFileBytesPeak       : 1175552
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 6896
+PoolPagedBytes          : 95616
+PriorityBase            : 8
+PrivateBytes            : 1077248
+ThreadCount             : 3
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199071920128
+VirtualBytesPeak        : 2199073579008
+WorkingSet              : 4419584
+WorkingSetPeak          : 4440064
+WorkingSetPrivate       : 745472
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="services"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="services"
+Caption                 : 
+CreatingProcessID       : 528
+Description             : 
+ElapsedTime             : 5012927
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 351
+IDProcess               : 620
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : services
+PageFaultsPersec        : 0
+PageFileBytes           : 5775360
+PageFileBytesPeak       : 12664832
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 11200
+PoolPagedBytes          : 123632
+PriorityBase            : 9
+PrivateBytes            : 5775360
+ThreadCount             : 4
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199064698880
+VirtualBytesPeak        : 2199630880768
+WorkingSet              : 10604544
+WorkingSetPeak          : 12685312
+WorkingSetPrivate       : 4227072
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="smss"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="smss"
+Caption                 : 
+CreatingProcessID       : 4
+Description             : 
+ElapsedTime             : 5013027
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 55
+IDProcess               : 344
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : smss
+PageFaultsPersec        : 0
+PageFileBytes           : 315392
+PageFileBytesPeak       : 360448
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 2480
+PoolPagedBytes          : 12424
+PriorityBase            : 11
+PrivateBytes            : 315392
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 4407296
+VirtualBytesPeak        : 26603520
+WorkingSet              : 999424
+WorkingSetPeak          : 1019904
+WorkingSetPrivate       : 258048
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="SMSvcHost"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="SMSvcHost"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012256
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 166
+IDProcess               : 2376
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : SMSvcHost
+PageFaultsPersec        : 0
+PageFileBytes           : 21565440
+PageFileBytesPeak       : 22310912
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 12056
+PoolPagedBytes          : 251096
+PriorityBase            : 8
+PrivateBytes            : 21565440
+ThreadCount             : 5
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 539000832
+VirtualBytesPeak        : 544022528
+WorkingSet              : 13361152
+WorkingSetPeak          : 13570048
+WorkingSetPrivate       : 2695168
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="SMSvcHost#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="SMSvcHost#1"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012272
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 195
+IDProcess               : 1912
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : SMSvcHost#1
+PageFaultsPersec        : 0
+PageFileBytes           : 25497600
+PageFileBytesPeak       : 26431488
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 13944
+PoolPagedBytes          : 327592
+PriorityBase            : 8
+PrivateBytes            : 25497600
+ThreadCount             : 6
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 575266816
+VirtualBytesPeak        : 585576448
+WorkingSet              : 21438464
+WorkingSetPeak          : 21704704
+WorkingSetPrivate       : 5275648
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="spoolsv"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="spoolsv"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012296
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 400
+IDProcess               : 1628
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : spoolsv
+PageFaultsPersec        : 0
+PageFileBytes           : 4788224
+PageFileBytesPeak       : 5136384
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 24496
+PoolPagedBytes          : 180272
+PriorityBase            : 8
+PrivateBytes            : 4788224
+ThreadCount             : 10
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199110180864
+VirtualBytesPeak        : 2199111532544
+WorkingSet              : 12283904
+WorkingSetPeak          : 12582912
+WorkingSetPrivate       : 3346432
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="sqlservr"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="sqlservr"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012172
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 646
+IDProcess               : 2996
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : sqlservr
+PageFaultsPersec        : 0
+PageFileBytes           : 459780096
+PageFileBytesPeak       : 463732736
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 53088
+PoolPagedBytes          : 397328
+PriorityBase            : 8
+PrivateBytes            : 459780096
+ThreadCount             : 59
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 8500723712
+VirtualBytesPeak        : 8507564032
+WorkingSet              : 291090432
+WorkingSetPeak          : 291180544
+WorkingSetPrivate       : 271306752
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="sqlwriter"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="sqlwriter"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012266
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 97
+IDProcess               : 2096
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : sqlwriter
+PageFaultsPersec        : 0
+PageFileBytes           : 1458176
+PageFileBytesPeak       : 1880064
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 9184
+PoolPagedBytes          : 80776
+PriorityBase            : 8
+PrivateBytes            : 1458176
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 42950656
+VirtualBytesPeak        : 51372032
+WorkingSet              : 5861376
+WorkingSetPeak          : 5906432
+WorkingSetPrivate       : 1060864
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 4766506
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 119
+IDProcess               : 6736
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost
+PageFaultsPersec        : 0
+PageFileBytes           : 1085440
+PageFileBytesPeak       : 1261568
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 7152
+PoolPagedBytes          : 57248
+PriorityBase            : 8
+PrivateBytes            : 1085440
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199051120640
+VirtualBytesPeak        : 2199052976128
+WorkingSet              : 4816896
+WorkingSetPeak          : 4878336
+WorkingSetPrivate       : 802816
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#1"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012399
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 555
+IDProcess               : 616
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#1
+PageFaultsPersec        : 0
+PageFileBytes           : 10113024
+PageFileBytesPeak       : 10297344
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 29472
+PoolPagedBytes          : 179808
+PriorityBase            : 8
+PrivateBytes            : 10113024
+ThreadCount             : 17
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199115223040
+VirtualBytesPeak        : 2199212097536
+WorkingSet              : 16244736
+WorkingSetPeak          : 16723968
+WorkingSetPrivate       : 7823360
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#2"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#2"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 4766708
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 79
+IDProcess               : 5624
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#2
+PageFaultsPersec        : 0
+PageFileBytes           : 999424
+PageFileBytesPeak       : 1171456
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 6128
+PoolPagedBytes          : 56760
+PriorityBase            : 8
+PrivateBytes            : 999424
+ThreadCount             : 1
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199049191424
+VirtualBytesPeak        : 2199050788864
+WorkingSet              : 4104192
+WorkingSetPeak          : 4136960
+WorkingSetPrivate       : 761856
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#3"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#3"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012267
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 598
+IDProcess               : 1692
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#3
+PageFaultsPersec        : 0
+PageFileBytes           : 12587008
+PageFileBytesPeak       : 14753792
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 30480
+PoolPagedBytes          : 201464
+PriorityBase            : 8
+PrivateBytes            : 12587008
+ThreadCount             : 19
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199704473600
+VirtualBytesPeak        : 2200243744768
+WorkingSet              : 21766144
+WorkingSetPeak          : 22474752
+WorkingSetPrivate       : 7581696
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#4"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#4"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 4926505
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 85
+IDProcess               : 5168
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#4
+PageFaultsPersec        : 0
+PageFileBytes           : 1134592
+PageFileBytesPeak       : 1384448
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 7280
+PoolPagedBytes          : 63344
+PriorityBase            : 8
+PrivateBytes            : 1134592
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199054348288
+VirtualBytesPeak        : 2199056609280
+WorkingSet              : 4702208
+WorkingSetPeak          : 4751360
+WorkingSetPrivate       : 827392
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#5"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#5"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012400
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 566
+IDProcess               : 448
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#5
+PageFaultsPersec        : 0
+PageFileBytes           : 19611648
+PageFileBytesPeak       : 20328448
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 22800
+PoolPagedBytes          : 125600
+PriorityBase            : 8
+PrivateBytes            : 19611648
+ThreadCount             : 17
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199100346368
+VirtualBytesPeak        : 2199515631616
+WorkingSet              : 24309760
+WorkingSetPeak          : 31457280
+WorkingSetPrivate       : 15761408
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#6"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#6"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012276
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 370
+IDProcess               : 1796
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#6
+PageFaultsPersec        : 0
+PageFileBytes           : 7757824
+PageFileBytesPeak       : 7925760
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 17536
+PoolPagedBytes          : 181088
+PriorityBase            : 8
+PrivateBytes            : 7757824
+ThreadCount             : 11
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199115059200
+VirtualBytesPeak        : 2199116677120
+WorkingSet              : 17190912
+WorkingSetPeak          : 17559552
+WorkingSetPrivate       : 5935104
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#7"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#7"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012399
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 1548
+IDProcess               : 568
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#7
+PageFaultsPersec        : 0
+PageFileBytes           : 202932224
+PageFileBytesPeak       : 586956800
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 50528
+PoolPagedBytes          : 670280
+PriorityBase            : 8
+PrivateBytes            : 202932224
+ThreadCount             : 36
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199475937280
+VirtualBytesPeak        : 2200305922048
+WorkingSet              : 210206720
+WorkingSetPeak          : 583380992
+WorkingSetPrivate       : 192552960
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#8"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#8"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012412
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 475
+IDProcess               : 856
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#8
+PageFaultsPersec        : 0
+PageFileBytes           : 4608000
+PageFileBytesPeak       : 4808704
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 18672
+PoolPagedBytes          : 93288
+PriorityBase            : 8
+PrivateBytes            : 4608000
+ThreadCount             : 8
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199057842176
+VirtualBytesPeak        : 2199063388160
+WorkingSet              : 8740864
+WorkingSetPeak          : 8912896
+WorkingSetPrivate       : 3837952
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#9"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#9"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012282
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 107
+IDProcess               : 1700
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#9
+PageFaultsPersec        : 0
+PageFileBytes           : 3383296
+PageFileBytesPeak       : 3584000
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 10848
+PoolPagedBytes          : 78032
+PriorityBase            : 8
+PrivateBytes            : 3383296
+ThreadCount             : 7
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199067275264
+VirtualBytesPeak        : 2199069405184
+WorkingSet              : 7852032
+WorkingSetPeak          : 7905280
+WorkingSetPrivate       : 2838528
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#10"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#10"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012423
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 516
+IDProcess               : 808
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#10
+PageFaultsPersec        : 0
+PageFileBytes           : 6144000
+PageFileBytesPeak       : 27250688
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 15040
+PoolPagedBytes          : 966272
+PriorityBase            : 8
+PrivateBytes            : 6144000
+ThreadCount             : 9
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199072079872
+VirtualBytesPeak        : 2199096246272
+WorkingSet              : 12800000
+WorkingSetPeak          : 13037568
+WorkingSetPrivate       : 5304320
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#11"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#11"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5011810
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 268
+IDProcess               : 2888
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#11
+PageFaultsPersec        : 0
+PageFileBytes           : 3043328
+PageFileBytesPeak       : 3399680
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 17888
+PoolPagedBytes          : 113312
+PriorityBase            : 8
+PrivateBytes            : 3043328
+ThreadCount             : 14
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199077552128
+VirtualBytesPeak        : 2199079682048
+WorkingSet              : 8888320
+WorkingSetPeak          : 8933376
+WorkingSetPrivate       : 2084864
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#12"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#12"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012395
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 405
+IDProcess               : 1120
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#12
+PageFaultsPersec        : 0
+PageFileBytes           : 11497472
+PageFileBytesPeak       : 12656640
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 34768
+PoolPagedBytes          : 122056
+PriorityBase            : 8
+PrivateBytes            : 11497472
+ThreadCount             : 17
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199093710848
+VirtualBytesPeak        : 2199096688640
+WorkingSet              : 15245312
+WorkingSetPeak          : 16629760
+WorkingSetPrivate       : 6942720
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#13"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#13"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012398
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 799
+IDProcess               : 888
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#13
+PageFaultsPersec        : 0
+PageFileBytes           : 10526720
+PageFileBytesPeak       : 13619200
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 38864
+PoolPagedBytes          : 207048
+PriorityBase            : 8
+PrivateBytes            : 10526720
+ThreadCount             : 18
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2200215732224
+VirtualBytesPeak        : 2200257019904
+WorkingSet              : 21262336
+WorkingSetPeak          : 23166976
+WorkingSetPrivate       : 8871936
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#14"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#14"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5011811
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 848
+IDProcess               : 2704
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 539
+IOOtherOperationsPersec : 14
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#14
+PageFaultsPersec        : 0
+PageFileBytes           : 50118656
+PageFileBytesPeak       : 75640832
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 32112
+PoolPagedBytes          : 278912
+PriorityBase            : 8
+PrivateBytes            : 50118656
+ThreadCount             : 41
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199226044416
+VirtualBytesPeak        : 2199271264256
+WorkingSet              : 57217024
+WorkingSetPeak          : 92921856
+WorkingSetPrivate       : 34058240
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#15"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#15"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5012267
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 183
+IDProcess               : 1808
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#15
+PageFaultsPersec        : 0
+PageFileBytes           : 4874240
+PageFileBytesPeak       : 4993024
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 15568
+PoolPagedBytes          : 75424
+PriorityBase            : 8
+PrivateBytes            : 4874240
+ThreadCount             : 16
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199070486528
+VirtualBytesPeak        : 2199071150080
+WorkingSet              : 9498624
+WorkingSetPeak          : 9523200
+WorkingSetPrivate       : 3801088
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="svchost#16"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="svchost#16"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5015404
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 108
+IDProcess               : 3284
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : svchost#16
+PageFaultsPersec        : 0
+PageFileBytes           : 1470464
+PageFileBytesPeak       : 1892352
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 8656
+PoolPagedBytes          : 45536
+PriorityBase            : 8
+PrivateBytes            : 1470464
+ThreadCount             : 3
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199045398528
+VirtualBytesPeak        : 2199046463488
+WorkingSet              : 4943872
+WorkingSetPeak          : 5554176
+WorkingSetPrivate       : 1175552
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="System"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="System"
+Caption                 : 
+CreatingProcessID       : 0
+Description             : 
+ElapsedTime             : 5013027
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 862
+IDProcess               : 4
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : System
+PageFaultsPersec        : 0
+PageFileBytes           : 110592
+PageFileBytesPeak       : 278528
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 0
+PoolPagedBytes          : 0
+PriorityBase            : 8
+PrivateBytes            : 110592
+ThreadCount             : 134
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 3473408
+VirtualBytesPeak        : 10928128
+WorkingSet              : 245760
+WorkingSetPeak          : 5337088
+WorkingSetPrivate       : 28672
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="TabTip"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="TabTip"
+Caption                 : 
+CreatingProcessID       : 6736
+Description             : 
+ElapsedTime             : 672
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 262
+IDProcess               : 8044
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : TabTip
+PageFaultsPersec        : 0
+PageFileBytes           : 2641920
+PageFileBytesPeak       : 2727936
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 14960
+PoolPagedBytes          : 208112
+PriorityBase            : 13
+PrivateBytes            : 2641920
+ThreadCount             : 12
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199123492864
+VirtualBytesPeak        : 2199125049344
+WorkingSet              : 9666560
+WorkingSetPeak          : 9728000
+WorkingSetPrivate       : 1835008
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="TabTip32"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="TabTip32"
+Caption                 : 
+CreatingProcessID       : 8044
+Description             : 
+ElapsedTime             : 671
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 54
+IDProcess               : 4732
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : TabTip32
+PageFaultsPersec        : 0
+PageFileBytes           : 876544
+PageFileBytesPeak       : 876544
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 6896
+PoolPagedBytes          : 92840
+PriorityBase            : 8
+PrivateBytes            : 876544
+ThreadCount             : 1
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 78049280
+VirtualBytesPeak        : 78049280
+WorkingSet              : 3698688
+WorkingSetPeak          : 3698688
+WorkingSetPrivate       : 544768
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="taskhostex"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="taskhostex"
+Caption                 : 
+CreatingProcessID       : 568
+Description             : 
+ElapsedTime             : 4766715
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 311
+IDProcess               : 1552
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : taskhostex
+PageFaultsPersec        : 0
+PageFileBytes           : 6533120
+PageFileBytesPeak       : 30883840
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 23792
+PoolPagedBytes          : 226728
+PriorityBase            : 8
+PrivateBytes            : 6533120
+ThreadCount             : 7
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199589351424
+VirtualBytesPeak        : 2199613460480
+WorkingSet              : 13881344
+WorkingSetPeak          : 38002688
+WorkingSetPrivate       : 4550656
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="vds"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="vds"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5015409
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 160
+IDProcess               : 2372
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : vds
+PageFaultsPersec        : 0
+PageFileBytes           : 2228224
+PageFileBytesPeak       : 2400256
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 16112
+PoolPagedBytes          : 100864
+PriorityBase            : 8
+PrivateBytes            : 2228224
+ThreadCount             : 11
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199074754560
+VirtualBytesPeak        : 2199077539840
+WorkingSet              : 8351744
+WorkingSetPeak          : 8658944
+WorkingSetPrivate       : 1712128
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="VSSVC"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="VSSVC"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 5015403
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 124
+IDProcess               : 3400
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : VSSVC
+PageFaultsPersec        : 0
+PageFileBytes           : 1585152
+PageFileBytesPeak       : 1847296
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 9712
+PoolPagedBytes          : 79760
+PriorityBase            : 8
+PrivateBytes            : 1585152
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199064465408
+VirtualBytesPeak        : 2199066726400
+WorkingSet              : 6565888
+WorkingSetPeak          : 6631424
+WorkingSetPrivate       : 1249280
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="wininit"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="wininit"
+Caption                 : 
+CreatingProcessID       : 448
+Description             : 
+ElapsedTime             : 5012936
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 84
+IDProcess               : 528
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : wininit
+PageFaultsPersec        : 0
+PageFileBytes           : 913408
+PageFileBytesPeak       : 1159168
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 8304
+PoolPagedBytes          : 100736
+PriorityBase            : 13
+PrivateBytes            : 913408
+ThreadCount             : 1
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199070564352
+VirtualBytesPeak        : 2199072694272
+WorkingSet              : 4026368
+WorkingSetPeak          : 4075520
+WorkingSetPrivate       : 655360
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="winlogon"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="winlogon"
+Caption                 : 
+CreatingProcessID       : 4172
+Description             : 
+ElapsedTime             : 673
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 125
+IDProcess               : 4152
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : winlogon
+PageFaultsPersec        : 0
+PageFileBytes           : 1155072
+PageFileBytesPeak       : 1396736
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 7264
+PoolPagedBytes          : 113688
+PriorityBase            : 13
+PrivateBytes            : 1155072
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199078395904
+VirtualBytesPeak        : 2199080570880
+WorkingSet              : 4878336
+WorkingSetPeak          : 4915200
+WorkingSetPrivate       : 741376
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="winlogon#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="winlogon#1"
+Caption                 : 
+CreatingProcessID       : 512
+Description             : 
+ElapsedTime             : 5012935
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 158
+IDProcess               : 556
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : winlogon#1
+PageFaultsPersec        : 0
+PageFileBytes           : 1527808
+PageFileBytesPeak       : 2641920
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 8800
+PoolPagedBytes          : 119672
+PriorityBase            : 13
+PrivateBytes            : 1527808
+ThreadCount             : 2
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199083003904
+VirtualBytesPeak        : 2199087214592
+WorkingSet              : 6811648
+WorkingSetPeak          : 9437184
+WorkingSetPrivate       : 1003520
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="WmiApSrv"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="WmiApSrv"
+Caption                 : 
+CreatingProcessID       : 620
+Description             : 
+ElapsedTime             : 335
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 115
+IDProcess               : 3108
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : WmiApSrv
+PageFaultsPersec        : 0
+PageFileBytes           : 1257472
+PageFileBytesPeak       : 1413120
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 8368
+PoolPagedBytes          : 58840
+PriorityBase            : 8
+PrivateBytes            : 1257472
+ThreadCount             : 3
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199052328960
+VirtualBytesPeak        : 2199054057472
+WorkingSet              : 5414912
+WorkingSetPeak          : 5455872
+WorkingSetPrivate       : 995328
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="WmiPrvSE"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="WmiPrvSE"
+Caption                 : 
+CreatingProcessID       : 808
+Description             : 
+ElapsedTime             : 287
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 214
+IDProcess               : 5452
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : WmiPrvSE
+PageFaultsPersec        : 18
+PageFileBytes           : 5435392
+PageFileBytesPeak       : 5922816
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 5
+PercentUserTime         : 5
+PoolNonpagedBytes       : 9584
+PoolPagedBytes          : 71128
+PriorityBase            : 8
+PrivateBytes            : 5435392
+ThreadCount             : 6
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199067189248
+VirtualBytesPeak        : 2199078846464
+WorkingSet              : 9584640
+WorkingSetPeak          : 9932800
+WorkingSetPrivate       : 4497408
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="WmiPrvSE#1"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="WmiPrvSE#1"
+Caption                 : 
+CreatingProcessID       : 808
+Description             : 
+ElapsedTime             : 488338
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 419
+IDProcess               : 3244
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : WmiPrvSE#1
+PageFaultsPersec        : 0
+PageFileBytes           : 32104448
+PageFileBytesPeak       : 34054144
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 27088
+PoolPagedBytes          : 163392
+PriorityBase            : 8
+PrivateBytes            : 32104448
+ThreadCount             : 16
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199146795008
+VirtualBytesPeak        : 2199157284864
+WorkingSet              : 38440960
+WorkingSetPeak          : 40497152
+WorkingSetPrivate       : 28024832
+PSComputerName          : DC1
+
+__GENUS                 : 2
+__CLASS                 : Win32_PerfFormattedData_PerfProc_Process
+__SUPERCLASS            : Win32_PerfFormattedData
+__DYNASTY               : CIM_StatisticalInformation
+__RELPATH               : Win32_PerfFormattedData_PerfProc_Process.Name="WmiPrvSE#2"
+__PROPERTY_COUNT        : 37
+__DERIVATION            : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                : DC1
+__NAMESPACE             : root\cimv2
+__PATH                  : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfProc_Process.Name="WmiPrvSE#2"
+Caption                 : 
+CreatingProcessID       : 808
+Description             : 
+ElapsedTime             : 29
+Frequency_Object        : 
+Frequency_PerfTime      : 
+Frequency_Sys100NS      : 
+HandleCount             : 203
+IDProcess               : 5716
+IODataBytesPersec       : 0
+IODataOperationsPersec  : 0
+IOOtherBytesPersec      : 0
+IOOtherOperationsPersec : 0
+IOReadBytesPersec       : 0
+IOReadOperationsPersec  : 0
+IOWriteBytesPersec      : 0
+IOWriteOperationsPersec : 0
+Name                    : WmiPrvSE#2
+PageFaultsPersec        : 0
+PageFileBytes           : 18923520
+PageFileBytesPeak       : 18923520
+PercentPrivilegedTime   : 0
+PercentProcessorTime    : 0
+PercentUserTime         : 0
+PoolNonpagedBytes       : 28848
+PoolPagedBytes          : 220008
+PriorityBase            : 8
+PrivateBytes            : 18923520
+ThreadCount             : 8
+Timestamp_Object        : 
+Timestamp_PerfTime      : 
+Timestamp_Sys100NS      : 
+VirtualBytes            : 2199549505536
+VirtualBytesPeak        : 2199549505536
+WorkingSet              : 17199104
+WorkingSetPeak          : 17199104
+WorkingSetPrivate       : 4284416
+PSComputerName          : DC1
+
+
+

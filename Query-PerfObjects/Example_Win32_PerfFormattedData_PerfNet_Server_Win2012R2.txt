@@ -1,0 +1,66 @@
+
+
+__GENUS                                     : 2
+__CLASS                                     : Win32_PerfFormattedData_PerfNet_Server
+__SUPERCLASS                                : Win32_PerfFormattedData
+__DYNASTY                                   : CIM_StatisticalInformation
+__RELPATH                                   : Win32_PerfFormattedData_PerfNet_Server=@
+__PROPERTY_COUNT                            : 50
+__DERIVATION                                : {Win32_PerfFormattedData, Win32_Perf, CIM_StatisticalInformation}
+__SERVER                                    : DC1
+__NAMESPACE                                 : root\cimv2
+__PATH                                      : \\DC1\root\cimv2:Win32_PerfFormattedData_PerfNet_Server=@
+BlockingRequestsRejected                    : 0
+BytesReceivedPersec                         : 0
+BytesTotalPersec                            : 0
+BytesTransmittedPersec                      : 0
+Caption                                     : 
+ContextBlocksQueuedPersec                   : 0
+Description                                 : 
+ErrorsAccessPermissions                     : 0
+ErrorsGrantedAccess                         : 0
+ErrorsLogon                                 : 0
+ErrorsSystem                                : 0
+FileDirectorySearches                       : 0
+FilesOpen                                   : 0
+FilesOpenedTotal                            : 97126
+Frequency_Object                            : 
+Frequency_PerfTime                          : 
+Frequency_Sys100NS                          : 
+LogonPersec                                 : 0
+LogonTotal                                  : 168685
+Name                                        : 
+PoolNonpagedBytes                           : 198183
+PoolNonpagedFailures                        : 0
+PoolNonpagedPeak                            : 448597
+PoolPagedBytes                              : 13700
+PoolPagedFailures                           : 0
+PoolPagedPeak                               : 27180
+ReconnectedDurableHandles                   : 0
+ReconnectedResilientHandles                 : 0
+ServerSessions                              : 0
+SessionsErroredOut                          : 0
+SessionsForcedOff                           : 0
+SessionsLoggedOff                           : 72250
+SessionsTimedOut                            : 0
+SMBBranchCacheHashBytesSent                 : 0
+SMBBranchCacheHashGenerationRequests        : 0
+SMBBranchCacheHashHeaderRequests            : 0
+SMBBranchCacheHashRequestsReceived          : 0
+SMBBranchCacheHashResponsesSent             : 0
+SMBBranchCacheHashV2BytesSent               : 0
+SMBBranchCacheHashV2GenerationRequests      : 0
+SMBBranchCacheHashV2HeaderRequests          : 0
+SMBBranchCacheHashV2RequestsReceived        : 0
+SMBBranchCacheHashV2RequestsServedFromDedup : 0
+SMBBranchCacheHashV2ResponsesSent           : 0
+Timestamp_Object                            : 
+Timestamp_PerfTime                          : 
+Timestamp_Sys100NS                          : 
+TotalDurableHandles                         : 0
+TotalResilientHandles                       : 0
+WorkItemShortages                           : 0
+PSComputerName                              : DC1
+
+
+
