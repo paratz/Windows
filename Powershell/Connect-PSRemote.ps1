@@ -6,4 +6,4 @@
 
 $cred = Get-Credential
 $pso = New-PSSessionOption -SkipRevocationCheck
-Enter-PSSession -ComputerName srvdc1.contoso.com -Credential $cred -UseSSL -SessionOption $pso
+Enter-PSSession -ComputerName $ComputerName -Credential $cred -UseSSL -SessionOption $pso
