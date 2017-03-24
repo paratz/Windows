@@ -1,0 +1,1 @@
+﻿Wbadmin stop job -force

@@ -1,0 +1,1 @@
+﻿Add-WindowsFeature telnet-client

@@ -1,0 +1,1 @@
+﻿certreq -new -f RequestConfig.inf RequestConfig.req

@@ -7,3 +7,5 @@
 $cred = Get-Credential
 $pso = New-PSSessionOption -SkipRevocationCheck
 Enter-PSSession -ComputerName srvdc1.contoso.com -Credential $cred -UseSSL -SessionOption $pso
+
+#more info http://www.visualstudiogeeks.com/devops/how-to-configure-winrm-for-https-manually
