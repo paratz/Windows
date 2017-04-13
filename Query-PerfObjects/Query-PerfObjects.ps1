@@ -10,3 +10,4 @@ $class.Name
 #$ntds = Get-WmiObject -Query "Select * from Win32_PerfFormattedData_NTDS_NTDS"
 #$process = Get-WmiObject -Query "Select * from Win32_PerfFormattedData_PerfProc_Process"
 #$server = Get-WmiObject -Query "Select * from Win32_PerfFormattedData_PerfNet_Server"
+#$auths = Get-WmiObject -Query "Select * from Win32_PerfFormattedData_Lsa_SecuritySystemWideStatistics"

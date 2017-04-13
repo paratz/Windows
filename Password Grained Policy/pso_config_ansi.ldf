@@ -1,0 +1,14 @@
+dn: CN=PSO1,CN=Password Settings Container,CN=System,DC=contoso,DC=com
+changetype: add
+objectClass: msDS-PasswordSettings
+msDS-MaximumPasswordAge:-1728000000000
+msDS-MinimumPasswordAge:-864000000000
+msDS-MinimumPasswordLength:3
+msDS-PasswordHistoryLength:24
+msDS-PasswordComplexityEnabled:FALSE
+msDS-PasswordReversibleEncryptionEnabled:FALSE
+msDS-LockoutObservationWindow:-18000000000
+msDS-LockoutDuration:-18000000000
+msDS-LockoutThreshold:3
+msDS-PasswordSettingsPrecedence:20
+msDS-PSOAppliesTo:CN=testgroup,OU=TestPolicy,DC=contoso,DC=com
