@@ -1,0 +1,80 @@
+\Cache\Dirty Pages
+\Cache\Lazy Write Flushes/sec
+\LogicalDisk(*)\% Free Space
+\LogicalDisk(*)\% Idle Time
+\LogicalDisk(*)\Avg. Disk Bytes/Read
+\LogicalDisk(*)\Avg. Disk Bytes/Transfer
+\LogicalDisk(*)\Avg. Disk Bytes/Write
+\LogicalDisk(*)\Avg. Disk Queue Length
+\LogicalDisk(*)\Avg. Disk sec/Read
+\LogicalDisk(*)\Avg. Disk sec/Transfer
+\LogicalDisk(*)\Avg. Disk sec/Write
+\LogicalDisk(*)\Current Disk Queue Length
+\LogicalDisk(*)\Disk Bytes/sec
+\LogicalDisk(*)\Disk Reads/sec
+\LogicalDisk(*)\Disk Transfers/sec
+\LogicalDisk(*)\Disk Writes/sec
+\LogicalDisk(*)\Free Megabytes
+\Memory\% Committed Bytes In Use
+\Memory\Available MBytes
+\Memory\Commit Limit
+\Memory\Committed Bytes
+\Memory\Free & Zero Page List Bytes
+\Memory\Free System Page Table Entries
+\Memory\Long-Term Average Standby Cache Lifetime (s)
+\Memory\Pages Input/sec
+\Memory\Pages Output/sec
+\Memory\Pages/sec
+\Memory\Pool Nonpaged Bytes
+\Memory\Pool Paged Bytes
+\Memory\Pool Paged Resident Bytes
+\Memory\System Cache Resident Bytes
+\Memory\Transition Pages RePurposed/sec
+\Network Inspection System\Average inspection latency (sec/bytes)
+\Network Interface(*)\Bytes Received/sec
+\Network Interface(*)\Bytes Sent/sec
+\Network Interface(*)\Bytes Total/sec
+\Network Interface(*)\Current Bandwidth
+\Network Interface(*)\Output Queue Length
+\Network Interface(*)\Packets Outbound Errors
+\Network Interface(*)\Packets Received/sec
+\Network Interface(*)\Packets Sent/sec
+\Network Interface(*)\Packets/sec
+\Paging File(*)\% Usage
+\PhysicalDisk(*)\Avg. Disk Queue Length
+\PhysicalDisk(*)\Avg. Disk sec/Read
+\PhysicalDisk(*)\Avg. Disk sec/Write
+\PhysicalDisk(*)\Current Disk Queue Length
+\PhysicalDisk(*)\Disk Bytes/sec
+\Process(*)\% Privileged Time
+\Process(*)\% Processor Time
+\Process(*)\Handle Count
+\Process(*)\ID Process
+\Process(*)\IO Data Operations/sec
+\Process(*)\IO Other Operations/sec
+\Process(*)\IO Read Operations/sec
+\Process(*)\IO Write Operations/sec
+\Process(*)\Private Bytes
+\Process(*)\Thread Count
+\Process(*)\Virtual Bytes
+\Process(*)\Working Set
+\Processor Information(*)\% DPC Time
+\Processor Information(*)\% Interrupt Time
+\Processor Information(*)\% of Maximum Frequency
+\Processor Information(*)\% Privileged Time
+\Processor Information(*)\% Processor Time
+\Processor Information(*)\% User Time
+\Processor Information(*)\DPC Rate
+\Processor Information(*)\Parking Status
+\Processor(*)\% DPC Time
+\Processor(*)\% Interrupt Time
+\Processor(*)\% Privileged Time
+\Processor(*)\% Processor Time
+\Processor(*)\% User Time
+\Processor(*)\DPC Rate
+\Server\Pool Nonpaged Failures
+\Server\Pool Paged Failures
+\System\Context Switches/sec
+\System\Processor Queue Length
+\System\System Calls/sec
+\TCPv4\Connection Failures
