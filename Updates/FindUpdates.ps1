@@ -1,25 +1,7 @@
-﻿$numerokb = "KB4467706"
-$sistemaoperativo = "Windows Server 2008 for x64-based Systems"
+﻿$numerokb = "KB2892074"
+$sistemaoperativo = "Windows Server 2008 R2 x64 Edition"
 
-$a = Get-KBID -KBNumber $numerokb -OSSupport $sistemaoperativo
-
-$b = Get-SuperSeededByKB -IdKB $a.id -OSSupport $sistemaoperativo
-
-
-foreach ($i in $b) {
-    
-    $c = Get-SuperSeededByKB -IdKB (Get-KBID -KBNumber $i -OSSupport $sistemaoperativo).id -OSSupport $sistemaoperativo
-    
-    $c
-
- }
-
-
-#Ejemplo de OS
-#2018-07 Security Update for Windows Server 2008 for x86-based Systems (KB4339291)      adf2fae3-4f80-442d-a698-8a4bb513dbfc
-#2018-07 Security Update for Windows Server 2008 for Itanium-based Systems (KB4339291)  d8f636d2-1021-425e-a021-6f5552b324da
-#2018-07 Security Update for Windows Server 2008 for x64-based Systems (KB4339291)      07ef873f-fc26-45b4-8c03-890d359f2776
-#2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4339291)  95b79387-5fa5-4e7b-a312-8c458a878eae
+$global:kbList = @() 
 
 
 function Get-KBID {
@@ -46,19 +28,49 @@ return $kbfinal
 
 
 function Get-SuperSeededByKB {
-param( $IdKB, $OSSupport )
+param( $IdKB )
 #
 
     $kbObjDetail = Invoke-WebRequest -Uri "https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=$($IdKB)"
 
-    $ReplacingKB = $kbObjDetail.Links | Where-Object {$_.innerText -match $OSSupport} | Select-Object innerText
+    $ReplacingKB = $kbObjDetail.Links | Where-Object {$_.innerHTML -match "Update" -or $_.innerHTML -match "Rollup"} | Select-Object innerText
 
+    $ReplacingKB | Add-Member -MemberType NoteProperty "Description" -Value $Null -Force
+    
     foreach ($update in $ReplacingKB) {
 
         $regex = [regex]"\((.*)\)"
+        
+        $update.Description = $update.innerText
 
         $update.innertext = [regex]::match($update.innertext, $regex).Groups[1]
     }
     
     return $ReplacingKB
 }
+
+
+function get-innerkb($parentkb, $level, $description)
+{
+    $global:kbList += New-Object PSCustomObject -prop @{ kb="$parentkb"; level=$level; description=$description}
+    
+    $a = Get-KBID -KBNumber $parentkb -OSSupport $sistemaoperativo
+
+    if ($a -ne $null)
+    {
+        #Estoy suponiendo que me llega 1 solo resultado. Sino tengo que hacer un foreach
+        $b = Get-SuperSeededByKB -IdKB $a.id -OSSupport $sistemaoperativo
+        
+        foreach($kb in $b) {
+            #validar que no est{e en el kblist
+            if ($global:kbList.kb -notcontains $kb.Value)
+            { 
+                get-innerkb $kb.InnerText ($level + 1) $kb.Description
+            }
+        }
+    }
+}
+
+get-innerkb $numerokb 0 (Get-KBID -KBNumber $numerokb -OSSupport $sistemaoperativo).innerHTML
+
+$kblist | foreach { "==="*$_.level + $_.description }
