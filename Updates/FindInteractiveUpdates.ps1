@@ -1,23 +1,29 @@
-﻿$numerokb = "KB3046269"
+﻿$numerokb = Read-Host "Por favor Ingrese el número de KB"
 
-#$sistemaoperativo = "Windows Server 2003 x64 Edition \("
-$sistemaoperativo = "Windows Server 2008 R2 x64 Edition"
-#$sistemaoperativo = "Windows Server 2008 R2 for Itanium-based Systems \("
-#$sistemaoperativo = "Windows Server 2012 \("
-#$sistemaoperativo = "Windows Server 2012 R2 \("
-#$sistemaoperativo = "Windows Server 2012 R2 Preview \("
+$kbObj2 = Invoke-WebRequest -Uri "http://www.catalog.update.microsoft.com/Search.aspx?q=$($numerokb)" 
 
-#$sistemaoperativo = "Windows 8 \("
-#$sistemaoperativo = "Windows 8.1 \("
-#$sistemaoperativo = "Windows 7 \("
-##$sistemaoperativo ="Windows 8.1 Preview \("
-#$sistemaoperativo = "Windows Embedded Standard 7 \("
-#$sistemaoperativo = "Windows Embedded Standard 7 for x64-based Systems \("
-#$sistemaoperativo = "Windows 8.1 Preview for x64-based Systems \("
-#$sistemaoperativo = "Windows 7 for x64-based Systems \("
-#$sistemaoperativo = "Windows 8 for x64-based Systems \("
-#$sistemaoperativo = "Windows 8.1 for x64-based Systems \("
+$Available_KBIDs = $kbObj2.InputFields | 
+    Where-Object { $_.type -eq 'Button' -and $_.Value -eq 'Download' } | 
+    Select-Object -ExpandProperty  ID
 
+$kbGUIDs2 = $kbObj2.Links | Where-Object ID -match '_link' | Select-Object innerHTML,id 
+
+    foreach ($kabe2 in $kbGUIDs2) {
+    $kabe2.id = $kabe2.id.replace('_link','')
+    }
+
+$string = $kbGUIDs2.innerHTML | Out-GridView -Title "Seleccione OS" -PassThru
+
+    $regex = [regex]"\((.*)\)"
+        
+    $kblenght = ([regex]::match($string, $regex).Groups[1])
+
+
+$sistemaoperativo = $string.Substring(0,$string.Length-$kblenght.Length-4)
+
+" "
+"===Buscando...===="
+" "
 
 $global:kbList = @() 
 
@@ -39,13 +45,6 @@ $kbGUIDs = $kbObj.Links | Where-Object ID -match '_link' | Select-Object innerHT
     }
 
 $kbfinal = $kbguids | Where-Object {$_.innerHTML -match $OSSupport }
-
-<#  if ($sistemaoperativo -eq $null) {
-
-    $kbfinal = $kbGUIDs | Out-GridView -Title "Seleccione OS" -PassThru
-    $sistemaoperativo = $kbfinal.innerHTML
-
-}  #>
 
 return $kbfinal
 
