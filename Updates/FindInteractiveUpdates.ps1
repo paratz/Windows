@@ -1,5 +1,6 @@
 ﻿cls
-$numerokb = Read-Host "Por favor Ingrese el número de KB"
+$numerokb = Read-Host "Por favor Ingrese el número de KB (KBXXXXXXX) o Boletin de Seguridad (MSXX-XXX)"
+"  "
 $serverIP = Read-Host "Por favor Ingrese la dirección del servidor"
 
 $kbObj2 = Invoke-WebRequest -Uri "http://www.catalog.update.microsoft.com/Search.aspx?q=$($numerokb)" 
@@ -13,6 +14,16 @@ $kbGUIDs2 = $kbObj2.Links | Where-Object ID -match '_link' | Select-Object inner
     foreach ($kabe2 in $kbGUIDs2) {
     $kabe2.id = $kabe2.id.replace('_link','')
     }
+
+
+if ($kbGUIDs2 -eq $Null) {
+        "  "
+
+        Write-Host "No se encuentra KB o Boletin de Seguridad" -BackgroundColor Red
+        "  "
+        exit
+  }
+
 
 $string = $kbGUIDs2.innerHTML | Out-GridView -Title "Seleccione OS" -PassThru
 
@@ -103,9 +114,8 @@ get-innerkb $numerokb 0 (Get-KBID -KBNumber $numerokb -OSSupport $sistemaoperati
 "===Buscando KB instalados en servidor $($serverip) ...===="
 " "
 
-$KBInstaladas = Get-HotFix -ComputerName $serverIP
-
-#$KBInstaladas = Import-Csv -Path "C:\Users\paratz.SOUTHAMERICA\Desktop\anses\servidorfavorito.csv"
+#$KBInstaladas = Get-HotFix -ComputerName $serverIP
+$KBInstaladas = Import-Csv -Path "C:\Users\paratz.SOUTHAMERICA\Desktop\anses\servidorfavorito.csv"
 
 
 foreach ($o in $kblist) {
