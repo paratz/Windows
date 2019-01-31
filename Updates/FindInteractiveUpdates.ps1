@@ -1,4 +1,6 @@
-﻿$numerokb = Read-Host "Por favor Ingrese el número de KB"
+﻿cls
+$numerokb = Read-Host "Por favor Ingrese el número de KB"
+$serverIP = Read-Host "Por favor Ingrese la dirección del servidor"
 
 $kbObj2 = Invoke-WebRequest -Uri "http://www.catalog.update.microsoft.com/Search.aspx?q=$($numerokb)" 
 
@@ -22,7 +24,7 @@ $string = $kbGUIDs2.innerHTML | Out-GridView -Title "Seleccione OS" -PassThru
 $sistemaoperativo = $string.Substring(0,$string.Length-$kblenght.Length-4)
 
 " "
-"===Buscando...===="
+"===Buscando KB y sus reemplazantes en Windows Update Catalog ...===="
 " "
 
 $global:kbList = @() 
@@ -97,4 +99,52 @@ function get-innerkb($parentkb, $level, $description)
 
 get-innerkb $numerokb 0 (Get-KBID -KBNumber $numerokb -OSSupport $sistemaoperativo).innerHTML
 
-$kblist | foreach { "==="*$_.level + $_.description }
+" "
+"===Buscando KB instalados en servidor $($serverip) ...===="
+" "
+
+$KBInstaladas = Get-HotFix -ComputerName $serverIP
+
+#$KBInstaladas = Import-Csv -Path "C:\Users\paratz.SOUTHAMERICA\Desktop\anses\servidorfavorito.csv"
+
+
+foreach ($o in $kblist) {
+
+    foreach ($hotfix in $KBInstaladas) {
+    
+    if ($o.kb -eq $hotfix.hotfixid) {
+
+    $o.description = "INSTALADO - " + $o.description        
+
+    }
+ 
+   }
+
+}
+
+$output = $kblist | foreach { "==="*$_.level + $_.description }
+
+$contar = 0
+
+foreach ($line in $output) {
+
+    if($line -match "INSTALADO") {
+    
+    Write-Host $line -BackgroundColor Green
+    $contar += 1
+    
+    } else {
+
+    Write-Host $line 
+
+    }
+
+}
+
+if ($contar -eq 0) {
+
+    Write-Host "KB no se encuentra instalado" -BackgroundColor Red
+
+}
+
+
