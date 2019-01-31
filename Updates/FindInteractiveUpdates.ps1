@@ -114,8 +114,8 @@ get-innerkb $numerokb 0 (Get-KBID -KBNumber $numerokb -OSSupport $sistemaoperati
 "===Buscando KB instalados en servidor $($serverip) ...===="
 " "
 
-#$KBInstaladas = Get-HotFix -ComputerName $serverIP
-$KBInstaladas = Import-Csv -Path "C:\Users\paratz.SOUTHAMERICA\Desktop\anses\servidorfavorito.csv"
+$KBInstaladas = Get-HotFix -ComputerName $serverIP
+#$KBInstaladas = Import-Csv -Path "C:\Users\paratz.SOUTHAMERICA\Desktop\anses\servidorfavorito.csv"
 
 
 foreach ($o in $kblist) {
